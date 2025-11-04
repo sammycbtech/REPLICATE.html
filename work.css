@@ -1,0 +1,89 @@
+body{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    background-color: rgb(232, 229, 229);
+}
+.all{
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.765);
+    border-radius: 4px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+    padding-left: 7px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.nav{
+margin-left: -18px;
+}
+.week{
+  font-weight: bold;
+}
+.header{
+    background-color: #007acc;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.header h2{
+    text-align: center;
+}
+.header p{
+    text-align: center;
+    font-size: 13px;
+}
+.one{
+    color: palevioletred;
+}
+.footer{
+    text-align: center;
+    padding: 15px;
+    color: white;
+    background-color: black
+    
+    
+}
+
+.header a{
+    text-decoration: none;
+    color: white;
+    font-size: 11px;
+    margin: 3px;
+  
+}
+.h2{
+    color: #007acc;
+    border-bottom: 3px solid #328b3b;
+   
+}
+.h3{
+    color: #328b3b;
+    
+}
+.hr{
+    color: #328b3b;
+}
+.border{
+    background-color: rgb(218, 217, 217);
+    color: palevioletred;
+    border-radius: 5px;
+    padding: 1px;
+    margin-right: 10px;
+}
+.border p{
+    margin-left: 10px;
+}
+.border code{
+    margin-left: 10px;
+}
+@media(min-width: 900px){
+.all{
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 10PX;
+}
+
+}
