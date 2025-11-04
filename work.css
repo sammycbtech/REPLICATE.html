@@ -4,6 +4,15 @@ body{
     margin: 0;
     background-color: rgb(232, 229, 229);
 }
+.box{
+    border-left: 5px solid #007acc;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.under{
+    border-bottom: 2px solid green;
+   margin-right: 10px;
+}
 .all{
     margin-top: 20px;
     background-color: rgba(255, 255, 255, 0.765);
@@ -42,7 +51,7 @@ margin-left: -18px;
     text-align: center;
     padding: 15px;
     color: white;
-    background-color: black
+    background-color: rgba(0, 0, 0, 0.792)
     
     
 }
@@ -84,6 +93,9 @@ margin-left: -18px;
     margin-left: 300px;
     margin-right: 300px;
     padding-bottom: 10PX;
+}
+.header a{
+    margin: 20px;
 }
 
 }
